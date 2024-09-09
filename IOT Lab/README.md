@@ -20,7 +20,9 @@ Before running the application, ensure you have the following installed:
 You can install the `paho-mqtt` library using pip:
 
 ```bash
-pip install paho-mqtt
+pip install paho-mqtt 
+
+```
 
 ## Code Overview
 
